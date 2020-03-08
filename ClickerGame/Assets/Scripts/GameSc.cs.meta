@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: fbbd76f597eff984889f018bb049caa8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Bee: {fileID: 9097324650235208337, guid: 16750819544b79a46bea5eeab51be113, type: 3}
+  - PlayerScoreUI: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
