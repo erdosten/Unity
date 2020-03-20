@@ -346,7 +346,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CubePrefab: {fileID: 756436033}
-  SpawnTime: 3
+  SpawnTime: 1
 --- !u!65 &888925618
 BoxCollider:
   m_ObjectHideFlags: 0
